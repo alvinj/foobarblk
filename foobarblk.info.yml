@@ -1,0 +1,10 @@
+name: Foobar Block
+type: module
+description: 'This is an example Block Module for Drupal 8'
+package: Custom
+version: 8.x
+core: 8.x
+dependencies:
+  - node
+  - block
+
